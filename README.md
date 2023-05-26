@@ -12,7 +12,7 @@
 
 <img align="right" width="350" src="./assets/purple-dev.gif">
 
-🔭 I’m currently working and improving the React Video Player project.<br>
+🔭 I’m currently working and improving the <a href="https://github.com/iabolfazl83/React-Video-Player">React Video Player project</a>.<br>
 
 🌱 I’m currently learning React.js<br>
 
