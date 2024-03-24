@@ -25,7 +25,7 @@
 📄 Know more about me <a href="https://drive.google.com/file/d/1PiuZJ3MuNE49JMMCDlKdRZu17Lh-XiAV/view?usp=sharing">
 Resume</a> <br>
 
-🔎 personality fact: I'm a very detail-oriented person.
+🔎 A very detail-oriented person.
 <br>
 
 ## <img align="center" width="40" src="./assets/computer-3535.gif"> Socials :
