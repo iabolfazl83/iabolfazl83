@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img width="30" height="30" src="./assets/hi.gif">, I'm Abolfazl.</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=B1B1B1&center=true&vCenter=true&multiline=true&width=460&height=100&lines=Welcome+to+my+GitHub+Page.;I'm+a+Hard-Worker+Front-end+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=B1B1B1&center=true&vCenter=true&multiline=true&width=460&height=100&lines=Welcome+to+my+GitHub+Page.;I'm+a+Front-end+Developer." alt="Typing SVG" /></a>
 </p>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -12,21 +12,19 @@
 
 <img align="right" width="350" src="./assets/purple-dev.gif">
 
-🔭 I’m currently working and improving the React Video Player project.<br>
+🔭 I’m currently working and improving React AspMenu.<br>
 
-🌱 I’m currently learning React.js<br>
+🌱 I’m also Improving my React knowledge.<br>
 
-👨‍💻I’m currently free for work.<br>
+👨‍💻I’m currently working at HRBOX.me<br>
 
-🤝 For work opportunities, you can reach me here <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>.<br>
+[//]: # (🤝 For work opportunities, you can reach me here <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>.<br>)
+🤝 you can reach me at: <a href="tel:+989335403596">+989335403596</a>.<br>
 
-🍂 I’m looking for help with finding projects to contribute to!<br>
+🍂 I’m looking for projects to contribute to!<br>
 
-📄 Know more about me <a href="https://drive.google.com/file/d/1PiuZJ3MuNE49JMMCDlKdRZu17Lh-XiAV/view?usp=sharing">
+📄 Know more about me <a href="https://drive.google.com/file/d/1-kYMKMYTzYs4dF9I5SASEFzc1RGUt07a/view?usp=sharing">
 Resume</a> <br>
-
-🔎 personality fact: I'm a very detail-oriented person.
-<br>
 
 ## <img align="center" width="40" src="./assets/computer-3535.gif"> Socials :
 
@@ -46,6 +44,9 @@ Resume</a> <br>
 </a>
 <a style="margin: 0 5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 	<img height="40" width="40" src="./assets/javascript.svg" alt="javascript">
+</a>
+<a style="margin: 0 5px" href="https://jquery.com/" target="_blank">
+	<img height="40" width="40" src="./assets/jquery.png" alt="javascript">
 </a>
 <a style="margin: 0 5px" href="https://reactjs.org" target="_blank">
 	<img height="40" width="40" src="./assets/react.svg" alt="react">
