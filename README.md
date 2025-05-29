@@ -29,7 +29,7 @@ Resume</a> <br>
 <a href="http://wa.me/+989335403596"><img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
 <a href="https://www.linkedin.com/in/abolfazlabbaspour/"><img width="40" height="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://t.me/thepaleemperor"><img width="40" height="40" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
-<a href="https://www.instagram.com/iabolfazl8338"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://www.instagram.com/itsiabolfazl"><img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 
 # <img align="left" width="60" src="./assets/dataflow-hero.gif"> Tech Stack :
 
