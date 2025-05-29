@@ -12,11 +12,9 @@
 
 <img align="right" width="350" src="./assets/purple-dev.gif">
 
-🔭 I’m currently working and improving React AspMenu.<br>
+🔭 I’m currently working and improving my React skills.<br>
 
-🌱 I’m also Improving my React knowledge.<br>
-
-👨‍💻I’m currently working at HRBOX.me<br>
+👨‍💻 I’m currently working at HRBOX.me<br>
 
 [//]: # (🤝 For work opportunities, you can reach me here <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>.<br>)
 🤝 you can reach me at: <a href="tel:+989335403596">+989335403596</a>.<br>
