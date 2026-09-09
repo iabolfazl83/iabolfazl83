@@ -21,7 +21,7 @@
 
 🍂 I’m looking for projects to contribute to!<br>
 
-📄 Know more about me <a href="https://drive.google.com/file/d/1qq1NYUuZTtQCzegMuRlqxCuC6IjAJa9l/view?usp=sharing">
+📄 Know more about me <a href="https://drive.google.com/file/d/1O859vl4IaEL6ifoMLq9j7rAVwppjgJBb/view?usp=drive_link">
 Resume</a> <br><br>
 
 ## <img align="center" width="40" src="https://img.icons8.com/?size=100&id=t6LiEZsO8jyj&format=png&color=000000"> Socials :
