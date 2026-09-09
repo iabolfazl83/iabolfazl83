@@ -1,7 +1,3 @@
-<style>
-a:hover, img.link:hover {cursor: pointer; opacity: .7; transition: opacity .2s;}
-</style>
-
 <h1 align="center">Hi <img width="30px" height="30px" src="./assets/hi.gif">, I'm Abolfazl.</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
