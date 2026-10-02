@@ -18,18 +18,43 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
-        id: snake-gif
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: iabolfazl83
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Check generated files
-        run: ls -la dist/
+      - name: Check if dist directory exists and list files
+        run: |
+          echo "Checking dist directory..."
+          if [ -d dist ]; then
+            echo "dist directory exists"
+            ls -la dist/
+          else
+            echo "dist directory does NOT exist - creating it"
+            mkdir -p dist
+            ls -la dist/
+          fi
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Verify SVG files were created
+        run: |
+          if [ -f dist/github-snake.svg ]; then
+            echo "✓ github-snake.svg found"
+            wc -l dist/github-snake.svg
+          else
+            echo "✗ github-snake.svg NOT found"
+          fi
+          if [ -f dist/github-snake-dark.svg ]; then
+            echo "✓ github-snake-dark.svg found"
+            wc -l dist/github-snake-dark.svg
+          else
+            echo "✗ github-snake-dark.svg NOT found"
+          fi
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
