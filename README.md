@@ -28,11 +28,12 @@
 🍂 I’m looking for projects to contribute to!<br>
 
 📝 Personal <a href="https://abolfazlabbaspour.vercel.app/">
-Portfolio Website</a> 
+Portfolio Website</a>
 
 📫 Reach at: <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>
 
-📄 Know about my experiences, <a href="https://drive.google.com/file/d/1O859vl4IaEL6ifoMLq9j7rAVwppjgJBb/view?usp=drive_link">
+📄 Know about my
+experiences, <a href="https://drive.google.com/file/d/1O859vl4IaEL6ifoMLq9j7rAVwppjgJBb/view?usp=drive_link">
 Resume</a> <br><br>
 
 ## <img align="center" width="40" src="https://img.icons8.com/?size=100&id=t6LiEZsO8jyj&format=png&color=000000"> Socials :
@@ -109,12 +110,17 @@ Resume</a> <br><br>
 
 # 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=iabolfazl83&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iabolfazl83&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabolfazl83&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=iabolfazl83&theme=dark" alt="streak-stats">
+</div>
+
+<div align="center">
+  <img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=iabolfazl83&theme=transparent&rank_icon=percentile" />
+  <img width="420" alt="most used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iabolfazl83&layout=compact&langs_count=6&card_width=300&theme=transparent" />
+</div>
+
 
 [//]: # (## 🏆 GitHub Trophies)
-
 ![](https://github-profile-trophy.vercel.app/?username=iabolfazl83&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [//]: # (---)
