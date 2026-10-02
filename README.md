@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img width="30px" height="30px" src="./assets/hi.gif">, I'm Abolfazl.</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=B1B1B1&center=true&vCenter=true&multiline=true&width=460&height=100&lines=Welcome+to+my+GitHub+Page.;I'm+a+Front-end+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=B1B1B1&center=true&vCenter=true&multiline=true&width=460&height=100&lines=Welcome+to+my+GitHub+Page.;I'm+a+Front-End+Developer." alt="Typing SVG" /></a>
 </p>
 
 <p align='center' style='margin: 16px 4px 8px;'>
