@@ -14,15 +14,20 @@
 
 🔭 I’m currently working and improving my React skills.<br>
 
-👨‍💻 I’m currently working at <a href="hrbox.ir">HRBOX</a><br>
+👨🏻‍💻 I’m currently working at <a href="hrbox.ir">HRBOX</a><br>
 
 [//]: # (🤝 For work opportunities, you can reach me here <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>.<br>)
-🤝 you can reach me at: <a href="tel:+989335403596">+989335403596</a>.<br>
+🫱🏻‍🫲🏻 you can reach me at: <a href="tel:+989335403596">+989335403596</a>.<br>
 
 🍂 I’m looking for projects to contribute to!<br>
 
-📄 Know more about me <a href="https://abolfazlabbaspour.vercel.app/">
-Portfolio</a> <br><br>
+📝 Personal <a href="https://abolfazlabbaspour.vercel.app/">
+Portfolio Website</a> 
+
+📫 Reach at: gabolfazl83@gmail.com
+
+📄 Know about my experiences, <a href="https://drive.google.com/file/d/1O859vl4IaEL6ifoMLq9j7rAVwppjgJBb/view?usp=drive_link">
+Resume</a> <br><br>
 
 ## <img align="center" width="40" src="https://img.icons8.com/?size=100&id=t6LiEZsO8jyj&format=png&color=000000"> Socials :
 
