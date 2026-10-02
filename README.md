@@ -23,8 +23,6 @@
 👨🏻‍💻 I’m currently working at <a href="hrbox.ir">HRBOX</a><br>
 
 [//]: # (🤝 For work opportunities, you can reach me here <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>.<br>)
-🫱🏻‍🫲🏻 you can reach me at: <a href="tel:+989335403596">+989335403596</a>.<br>
-
 🍂 I’m looking for projects to contribute to!<br>
 
 📝 Personal <a href="https://abolfazlabbaspour.vercel.app/">
