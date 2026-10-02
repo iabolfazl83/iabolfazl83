@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github-snake" src="https://githubusercontent.com">
+</picture>
+
+
 <h1 align="center">Hi <img width="30px" height="30px" src="./assets/hi.gif">, I'm Abolfazl.</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -24,7 +31,7 @@
 📝 Personal <a href="https://abolfazlabbaspour.vercel.app/">
 Portfolio Website</a> 
 
-📫 Reach at: gabolfazl83@gmail.com
+📫 Reach at: <a href="mailto:gabolfazl83@gmail.com">gabolfazl83@gmail.com</a>
 
 📄 Know about my experiences, <a href="https://drive.google.com/file/d/1O859vl4IaEL6ifoMLq9j7rAVwppjgJBb/view?usp=drive_link">
 Resume</a> <br><br>
@@ -107,9 +114,9 @@ Resume</a> <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iabolfazl83&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabolfazl83&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+[//]: # (## 🏆 GitHub Trophies)
 
 ![](https://github-profile-trophy.vercel.app/?username=iabolfazl83&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+[//]: # (---)
 [![](https://visitcount.itsvg.in/api?id=iabolfazl83&icon=5&color=0)](https://visitcount.itsvg.in)
